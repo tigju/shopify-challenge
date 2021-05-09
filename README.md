@@ -7,5 +7,7 @@ We want to do some analysis of the average order value (AOV). When we look at or
 Given that we know these shops are selling sneakers, a relatively affordable item, something seems wrong with our analysis. 
 
  1.Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
+
  2.What metric would you report for this dataset?
+ 
  3.What is its value?
